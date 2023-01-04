@@ -23,6 +23,7 @@ public class Ejemplo08 {
         
         mensajeSumaDos = obtenerTablaMultiplicar(10, 9);
         
+        
         System.out.printf("%s\n", mensajeSuma);
         System.out.printf("%s\n", mensajeSumaDos);
     }
